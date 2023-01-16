@@ -5,6 +5,4 @@ second line
 new line 
 
 new change to code
-
-new line from local repositary
-
+from local
