@@ -6,8 +6,5 @@ new line
 
 new change to code
 
-new commit here
+new line from local repositary
 
-test line
-
-git repository
